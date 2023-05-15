@@ -15,3 +15,5 @@
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  </div><br/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoaugustoc&layout=compact)](https://github.com/enzoaugustoc/github-readme-stats)
