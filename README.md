@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Enzo Augusto 🖐️
 
 Formado em Desenvolvimento de Sistemas<br>
-Experiência em back-end com .NET 
+Experiência em back-end com .NET <br>
 Atualmente estudando e buscando oportunidades para me aprofundar em JS e PHP.
 
 ## Tecnologias que eu uso no meu dia
