@@ -1,10 +1,10 @@
-## Olá! Eu sou o Enzo Augusto 🖐️
+## Hello! I'm Enzo Augusto 🖐️
 
-📚 Formado em Analise e Desenvolvimento de Sistemas<br>
-🖥️ Experiência em HTML, CSS, JavaScript e básico em .NET e PHP <br>
-💡 Atualmente estudando e buscando oportunidades para me tornar um desenvolvedor Front-End.
+📚 Graduated in Systems Analysis and Development<br>
+🖥️ Experience with HTML, CSS, JavaScript, PHP, Python, and Flask<br>
+💡 Currently focusing on studying Python for web development with Flask, software automation, and testing.
 
-## Tecnologias que eu uso no meu dia
+## Technologies I Use in My Daily Work
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,14 +12,16 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
- </div><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</div><br/>
+
  
 
  
-## Contato
+## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoaugustocoelho)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/enzoaugustocoelho)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/enzomgz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzogussi)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/enzoaugustocoelho)
 
