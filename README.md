@@ -1,7 +1,7 @@
 ## Hello! I'm Enzo Coelho 🖐️
 
 📚 Graduated in Systems Analysis and Development<br>
-🖥️ Experience with HTML, CSS, JavaScript, PHP, Python, and Flask<br>
+🖥️ Experience with HTML, CSS, JavaScript, PHP and React<br>
 💡 Currently focusing on studying Python for web development with Flask, software automation, and testing.
 
 ## Technologies I Use in My Daily Work
