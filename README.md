@@ -9,6 +9,7 @@
 
 ### 🧪 Software Testing & QA (Focus)
 <div>
+  <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-4ABC5B?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img align="center" alt="Gherkin" src="https://img.shields.io/badge/Gherkin-4ABC5B?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
