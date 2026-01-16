@@ -9,15 +9,18 @@
 
 ### 🧪 Software Testing & QA (Focus)
 <div>
-  <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-4ABC5B?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img align="center" alt="Gherkin" src="https://img.shields.io/badge/Gherkin-4ABC5B?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-4ABC5B?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img align="center" alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img align="center" alt="Appium" src="https://img.shields.io/badge/Appium-6222C0?style=for-the-badge&logo=appium&logoColor=white" />
+  <img align="center" alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
 </div>
 
-### ⚙️ DevOps & Infrastructure
+### ⚙️ Management & Infrastructure
 <div>
+  <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img align="center" alt="Zephyr" src="https://img.shields.io/badge/Zephyr-Scale-EB2F96?style=for-the-badge&logo=smartbear&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="CI/CD" src="https://img.shields.io/badge/CI/CD-FFB000?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
