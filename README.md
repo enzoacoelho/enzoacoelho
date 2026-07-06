@@ -7,15 +7,14 @@
 
 ## 🛠️ Tech Stack & Learning Path
 
-### 🧪 Software Testing & QA (Focus)
+### 🧪 Software Testing & QA 
 <div>
   <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img align="center" alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img align="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img align="center" alt="Appium" src="https://img.shields.io/badge/Appium-6222C0?style=for-the-badge&logo=appium&logoColor=white" />
-  <img align="center" alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
-  <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-4ABC5B?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img align="center" alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-002F6C?style=for-the-badge&logo=robot-framework&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ### ⚙️ Management & Infrastructure
