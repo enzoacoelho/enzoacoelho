@@ -36,7 +36,7 @@ Documentation of 8 bilingual e-commerce features using **BDD** and **Gherkin**, 
 ## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoaugustocoelho)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoaugustocoelho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzogussi)
+
 
  
 
