@@ -58,9 +58,6 @@ End-to-end test automation using Playwright and JavaScript, covering login, lead
 
 API automation using Cypress and JavaScript, covering endpoints, business rules, and role-based authorization. Includes GitHub Actions CI/CD and Allure reports.
 
-### [BDD & Gherkin – EBAC Shop](https://github.com/enzoacoelho/gherkin-ebacshop)
-
-Documentation of 8 bilingual e-commerce features using BDD and Gherkin, covering core business rules.
 
 ---
 
